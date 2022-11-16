@@ -1,0 +1,17 @@
+C:\Users\hp\Desktop\Batch-217\InventoryDataGrain\StockManagement\StockManagement\bin\Debug\net6.0\StockManagement.exe
+C:\Users\hp\Desktop\Batch-217\InventoryDataGrain\StockManagement\StockManagement\bin\Debug\net6.0\StockManagement.deps.json
+C:\Users\hp\Desktop\Batch-217\InventoryDataGrain\StockManagement\StockManagement\bin\Debug\net6.0\StockManagement.runtimeconfig.json
+C:\Users\hp\Desktop\Batch-217\InventoryDataGrain\StockManagement\StockManagement\bin\Debug\net6.0\StockManagement.dll
+C:\Users\hp\Desktop\Batch-217\InventoryDataGrain\StockManagement\StockManagement\bin\Debug\net6.0\StockManagement.pdb
+C:\Users\hp\Desktop\Batch-217\InventoryDataGrain\StockManagement\StockManagement\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\hp\Desktop\Batch-217\InventoryDataGrain\StockManagement\StockManagement\obj\Debug\net6.0\StockManagement.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Batch-217\InventoryDataGrain\StockManagement\StockManagement\obj\Debug\net6.0\StockManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Batch-217\InventoryDataGrain\StockManagement\StockManagement\obj\Debug\net6.0\StockManagement.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Batch-217\InventoryDataGrain\StockManagement\StockManagement\obj\Debug\net6.0\StockManagement.AssemblyInfo.cs
+C:\Users\hp\Desktop\Batch-217\InventoryDataGrain\StockManagement\StockManagement\obj\Debug\net6.0\StockManagement.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Batch-217\InventoryDataGrain\StockManagement\StockManagement\obj\Debug\net6.0\StockManagement.csproj.CopyComplete
+C:\Users\hp\Desktop\Batch-217\InventoryDataGrain\StockManagement\StockManagement\obj\Debug\net6.0\StockManagement.dll
+C:\Users\hp\Desktop\Batch-217\InventoryDataGrain\StockManagement\StockManagement\obj\Debug\net6.0\refint\StockManagement.dll
+C:\Users\hp\Desktop\Batch-217\InventoryDataGrain\StockManagement\StockManagement\obj\Debug\net6.0\StockManagement.pdb
+C:\Users\hp\Desktop\Batch-217\InventoryDataGrain\StockManagement\StockManagement\obj\Debug\net6.0\StockManagement.genruntimeconfig.cache
+C:\Users\hp\Desktop\Batch-217\InventoryDataGrain\StockManagement\StockManagement\obj\Debug\net6.0\ref\StockManagement.dll
