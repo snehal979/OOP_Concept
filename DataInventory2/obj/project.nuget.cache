@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TAkv/L7wpGRGNj5l4MUkZYuhXoQJbtskVtrhx48icp44tvI21a4ZfnWkP5R2ZHBoTZ1O9PVr8dtT/9t/G+QzhQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\NewBatch\\GrainInventoryJson\\DataInventory2\\DataInventory2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
